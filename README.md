@@ -1,1 +1,1 @@
-My vscode minimalist and modern settings
+My minimalist and modern vscode settings
