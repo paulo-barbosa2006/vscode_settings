@@ -1,19 +1,19 @@
 //Extensions:
 // Aps customize UI++
 // Prettier
-// Symbols
-// Min theme
+// Symbols -- Windows || Material Theme Icons -- Linux
+// Min theme -- Windows || Panda Theme -- Linux 
 
 {
     "tabnine.experimentalAutoImports": true,
     "editor.wordWrap": "on",
-    "workbench.iconTheme": "symbols",
+    "workbench.iconTheme": "eq-material-theme-icons",
     "workbench.editor.labelFormat": "short",
     "workbench.startupEditor": "newUntitledFile",
     "workbench.activityBar.location": "hidden",
     "workbench.statusBar.visible": false,
     "editor.fontFamily": "JetBrains Mono",
-    "editor.fontSize": 23,
+    "editor.fontSize": 20,
     "editor.lineHeight": 1.8,
     "editor.renderLineHighlight": "gutter",
     "editor.rulers": [80, 120],
@@ -500,7 +500,7 @@
         "Voltar"
     ],
     "symbols.hidesExplorerArrows": false,
-    "workbench.colorTheme": "Min Dark",
+    "workbench.colorTheme": "Panda Syntax",
     "window.commandCenter": false,
     "workbench.layoutControl.enabled": false
     
